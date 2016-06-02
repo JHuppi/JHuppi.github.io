@@ -38,7 +38,6 @@ $('body').append($overlay);
 
 //Project details
 var page = "Visit Page";
-var repo = "Visit Repository";
 
 var projectArray = [
     {
@@ -59,29 +58,29 @@ var projectArray = [
         project: 'dashBoard',
         screenShot: 'img/dashBoardP.jpg',
         caption: 'A mockup of a web app dashboard with charts created with Chart.js',
-        link: 'https://github.com/JHuppi/WebAppDashboard',
-        linkText: repo
+        link: 'http://jhuppi.github.io/WebAppDashboard',
+        linkText: page
     },
     {
         project: 'photoGallery',
         screenShot: 'img/photoGalleryP.jpg',
         caption: 'A gallery of photos with a key navigation lightbox and searchable by tags',
-        link: 'https://github.com/JHuppi/InteractivePhotoGallery',
-        linkText: repo   
+        link: 'http://jhuppi.github.io/InteractivePhotoGallery',
+        linkText: page 
     },
     {
         project: 'optimizationFix',
         screenShot: 'img/optimizationFixP.jpg',
         caption: 'A refactor of a photo gallery with the goal of decreasing load time',
-        link: 'https://github.com/JHuppi/PerformanceOptimization',
-        linkText: repo 
+        link: 'http://jhuppi.github.io/PerformanceOptimization',
+        linkText: page 
     },
     {
         project: 'accessibilityFix',
         screenShot: 'img/accessibilityFixP.jpg',
         caption: 'A refactor of a website with the goal of improving accessibility for individuals with visual and motor impairments',
-        link: 'https://github.com/JHuppi/AccessibilityRefactor',
-        linkText: repo   
+        link: 'http://jhuppi.github.io/AccessibilityRefactor',
+        linkText: page   
     }
 ];
 

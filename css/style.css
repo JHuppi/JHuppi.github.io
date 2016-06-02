@@ -92,6 +92,7 @@ li:focus svg {
     background-color: #bfc8ad;
     border-radius: 5px;
     box-shadow: 0px 2.5px 5px #888;
+    cursor: pointer;
 }
 
 .project img {
